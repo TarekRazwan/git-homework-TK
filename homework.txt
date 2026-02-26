@@ -1,1 +1,2 @@
 Git homework #1 — first commit from Tarek.
+rana's change to tarek text file 
